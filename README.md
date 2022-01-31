@@ -1,4 +1,4 @@
-# BasinSubs
+# BasinSubs v0.1.0
 This repository includes R scripts that are developed by Larry Syu-Heng Lai for sedimentary basin subsidence analyses of syn-orogenic strata in the Coastal Range of eastern Taiwan. The data and analytic results are produced by Larry S.-H. Lai and his collaborators, and are used for publications listed below.
 
 
