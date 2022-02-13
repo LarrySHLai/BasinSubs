@@ -2,7 +2,7 @@
 This repository includes R scripts that are developed by Larry Syu-Heng Lai for sedimentary basin subsidence analyses of syn-orogenic strata in the Coastal Range of eastern Taiwan. The data and analytic results are produced by Larry S.-H. Lai and his collaborators, and are used for publications listed below.
 
 
-## Scripts descriptions:
+## Descriptions of R scripts:
 **Porosity-depth function.R**: Calculating and plotting global averaged porosity-depth function for sandy, muddy, and mean marine sediments.
 
 **Age PB dSL-N.R** & **Age PB dSL-S.R**: Fitting linear age-thickness model for composite stratigraphic columns of northern and southern Coastal Range of eastern Taiwan (see details of data in [Lai et al., 2021, *_Sedimentary Geology_*](https://doi.org/10.1016/j.sedgeo.2021.105901) and [Lai et al., In Review, *_Communication Earth & Environment_*]). Linear age models are further used to predict (interpolate & extrapolate) the depositional ages for foraminifera-based paleobathymetry data. Averaged values (and their uncertainties) of estimated paleobathymetry and position of relative sea level ([Miller et al., 2020, _Science Advances_](https://doi.org/10.1126/sciadv.aaz1346)) are calcuated using data around age constraints (unit boundaries), that are further used in subsidence analysis.
