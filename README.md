@@ -15,7 +15,7 @@ This repository includes R scripts that are developed by Larry Syu-Heng Lai for 
 
 **Sealevel folder**: It includes reorganized values of the relative sea level position from [Miller et al. (2021)](https://doi.org/10.1126/sciadv.aaz1346), and calculated averaged relative sea level values and uncertainties at each age constraint (unit boundary).
  
-**Backstripping folder**: It includes compiled porosity-depth functions and grain density for sandy, muddy, and mean marine sediments from previous publications. Calculated global averaged porosity-depth functions used in our analysis are also included. See sources of compiled porosity-depth functions and used grain density data in the supplementary information of [Lai et al. (In Review)].
+**Backstripping folder**: It includes compiled porosity-depth functions and grain density for sandy, muddy, and mean marine sediments from previous publications. Calculated global averaged porosity-depth functions used in our analysis are also included. See sources of compiled porosity-depth functions and used grain density data in the supplementary information of [Lai et al. (Accepted)].
 
 **output results folder**: It includes results of our linear regressions for age models, subsidence analysis, and calculated long-term uplift and subsidence rates of the Luzon arc crust of eastern Taiwan.
 
