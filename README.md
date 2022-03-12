@@ -27,4 +27,6 @@ Lai, L.S.-H., Dorsey, R.J., Horng, C.-S., Chi, W.-R., Shea, K.-S., and Yen, J.-Y
 
 Lai, L.S.-H., Dorsey, R.J., Horng, C.-S., Chi, W.-R., Shea, K.-S., and Yen, J.-Y. (2021) Polygenetic mélange in retrowedge foredeep of an active arc-continent collision, Coastal Range of eastern Taiwan. *Sedimentary Geology*, v. 418, 105901. https://doi.org/10.1016/j.sedgeo.2021.105901
 
-Zenodo Repository: https://doi.org/10.5281/zenodo.5823613
+Zenodo code repository: https://doi.org/10.5281/zenodo.5823613
+
+Figshare data repository: https://doi.org/10.6084/m9.figshare.19350530
