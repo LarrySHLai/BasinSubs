@@ -23,10 +23,10 @@ This repository includes R scripts that are developed by Larry Syu-Heng Lai for 
 ## Citation:
 If you consider using these scripts and data, please cite the following references:
 
-Lai, L.S.-H., Dorsey, R.J., Horng, C.-S., Chi, W.-R., Shea, K.-S., and Yen, J.-Y. (2022) Extremely rapid up-and-down motions of island arc crust during arc-continent collision. *Communications Earth & Environment*, v. 3, no. 1, 100. https://doi.org/10.1038/s43247-022-00429-2 <a href="https://zenodo.org/badge/latestdoi/444695543"><img src="https://zenodo.org/badge/444695543.svg" alt="DOI"></a>
+Lai, L.S.-H., Dorsey, R.J., Horng, C.-S., Chi, W.-R., Shea, K.-S., and Yen, J.-Y. (2022) Extremely rapid up-and-down motions of island arc crust during arc-continent collision. *Communications Earth & Environment*, v. 3, no. 1, 100. https://doi.org/10.1038/s43247-022-00429-2
 
 Lai, L.S.-H., Dorsey, R.J., Horng, C.-S., Chi, W.-R., Shea, K.-S., and Yen, J.-Y. (2021) Polygenetic mélange in retrowedge foredeep of an active arc-continent collision, Coastal Range of eastern Taiwan. *Sedimentary Geology*, v. 418, 105901. https://doi.org/10.1016/j.sedgeo.2021.105901
 
-Zenodo code repository: https://doi.org/10.5281/zenodo.5823613
+Zenodo code repository: https://doi.org/10.5281/zenodo.5823613 <a href="https://zenodo.org/badge/latestdoi/444695543"><img src="https://zenodo.org/badge/444695543.svg" alt="DOI"></a>
 
 Figshare data repository: https://doi.org/10.6084/m9.figshare.19350530
