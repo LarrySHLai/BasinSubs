@@ -1,4 +1,5 @@
 # BasinSubs v0.1.0
+<a href="https://zenodo.org/badge/latestdoi/444695543"><img src="https://zenodo.org/badge/444695543.svg" alt="DOI"></a>
 This repository includes R scripts that are developed by Larry Syu-Heng Lai for sedimentary basin subsidence analyses of syn-orogenic strata in the Coastal Range of eastern Taiwan. The data and analytic results are produced by Larry S.-H. Lai and his collaborators, and are used for publications listed below.
 
 
@@ -27,6 +28,6 @@ Lai, L.S.-H., Dorsey, R.J., Horng, C.-S., Chi, W.-R., Shea, K.-S., and Yen, J.-Y
 
 Lai, L.S.-H., Dorsey, R.J., Horng, C.-S., Chi, W.-R., Shea, K.-S., and Yen, J.-Y. (2021) Polygenetic mélange in retrowedge foredeep of an active arc-continent collision, Coastal Range of eastern Taiwan. *Sedimentary Geology*, v. 418, 105901. https://doi.org/10.1016/j.sedgeo.2021.105901
 
-Zenodo code repository: https://doi.org/10.5281/zenodo.5823613 <a href="https://zenodo.org/badge/latestdoi/444695543"><img src="https://zenodo.org/badge/444695543.svg" alt="DOI"></a>
+Zenodo code repository: https://doi.org/10.5281/zenodo.5823613
 
 Figshare data repository: https://doi.org/10.6084/m9.figshare.19350530
